@@ -1,0 +1,6 @@
+Clothes Website.
+
+This project is online clothes selling website where you can get all neccessary information about the dress you like, also you will be able to search the type of dresses that you are interested in,
+use different types of filters.
+And it is done by using CSS, Bootstrap, Javascript, jQuery, JSON, API, different libraries and various functions inside js file to filter, search through the products.
+
